@@ -1,0 +1,5 @@
+.idea
+.pytest_cache
+__pycache__/
+wows_prod.db
+wows_test.db
